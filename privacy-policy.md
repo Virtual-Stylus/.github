@@ -59,8 +59,8 @@ We take technical and administrative security measures to protect your personal 
 
 > If you have any questions about this Privacy Policy or our data handling practices, please contact us at:
 
-> Email: [Company Email Address]
-> Address: [Company Address]
-> Last Updated:
+>
+>
+>
 
 This Privacy Policy was last updated on 31/03/2024.
