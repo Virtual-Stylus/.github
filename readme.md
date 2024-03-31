@@ -35,6 +35,6 @@ Customer Satisfaction: We strive to keep customer satisfaction at the highest le
 Don't hesitate to consult us for your technological problems!
 ```
 
->  By reading our [Privacy Policy]()
+>  By reading our [Privacy Policy](https://github.com/Virtual-Stylus/Virtual-Stylus/blob/main/privacy-policy.md)
 
 ### _Towards a stronger future together!_
